@@ -8009,10 +8009,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "bambi3D",
+		"player2": "mom",
 		"player3": "gf",
-		"song": "Cheating",
-		"stage": "youcheated",
+		"song": "Tutroial",
+		"stage": "stage",
 		"needsVoices": true,
 		"sections": 1,
 		"validScore": true,
